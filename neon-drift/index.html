@@ -180,7 +180,7 @@
   </div>
 </div>
 <div id="overlay">
-  <h1>Acer Neon Drift - 2</h1>
+  <h1 id="gameTitle"></h1>
   <div class="subtitle">Vector Asteroids</div>
   <p class="msg" id="overlayMsg">Carve through a neon asteroid field. Blast rocks into glittering shards before they crush your ship.</p>
   <div class="scoreline" id="overlayScore" hidden></div>
@@ -197,9 +197,13 @@
   <button class="tbtn" id="tFire" type="button" aria-label="fire">◎</button>
   <button class="tbtn" id="tHyp" type="button" aria-label="hyperspace">✧</button>
 </div>
+<script src="config.js"></script>
 <script>
 (function () {
   "use strict";
+
+  document.getElementById("gameTitle").textContent =
+    window.GAME_CONFIG?.title ?? "Neon Drift";
 
   const canvas = document.getElementById("game");
   const ctx = canvas.getContext("2d");
