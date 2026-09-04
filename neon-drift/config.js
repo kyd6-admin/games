@@ -1,1 +1,1 @@
-window.GAME_CONFIG = {\r\n  title: \"Neon Drift\"\r\n};\r\n
+window.GAME_CONFIG = {\r\n  title: \"Acer Neon Drift\"\r\n};\r\n
