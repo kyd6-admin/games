@@ -1,3 +1,3 @@
 window.GAME_CONFIG = {
-  title: "Acer Neon Drift"
+  title: "Acer New Neon Drift"
 };
