@@ -1,3 +1,1 @@
-window.GAME_CONFIG = {
-  title: "Acer Neon Drift"
-};
+window.GAME_CONFIG = {\r\n  title: \"Neon Drift\"\r\n};\r\n
