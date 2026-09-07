@@ -1,1 +1,1 @@
-window.GAME_CONFIG = { title: "Acer4 Neon Drift" };
+{"isError":false,"structuredContent":{"content":[{"type":"text","text":"window.GAME_CONFIG = {\n  title: \"Neon Drift\"\n};"}],"structuredContent":{"content":"window.GAME_CONFIG = {\n  title: \"Neon Drift\"\n};"},"isError":false}
