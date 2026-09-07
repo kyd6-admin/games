@@ -1,1 +1,1 @@
-window.GAME_CONFIG = { title: "Acer3 Neon Drift" };
+window.GAME_CONFIG = { title: "Acer4 Neon Drift" };
