@@ -1,1 +1,1 @@
-window.GAME_CONFIG = { title: "Acer5 Neon Drift" };
+{"isError":false,"structuredContent":{"content":[{"type":"text","text":"successfully downloaded text file (SHA: 558f92cebcc2d3e9bb4b4556a98f7c781d3b3723)"},{"type":"resource","resource":{"uri":"repo://kyd6-admin/games/sha/74387884bc8dd920ec45a6f2d47c8bd7279549b5/contents/neon-drift/config.js","mimeType":"text/plain; charset=utf-8","text":"window.GAME_CONFIG = { title: \"Neon Drift\" };"}}],"isError":false}}
