@@ -1,1 +1,3 @@
-{"isError":false,"structuredContent":{"content":[{"type":"text","text":"window.GAME_CONFIG = {\n  title: \"Neon Drift\"\n};"}],"structuredContent":{"content":"window.GAME_CONFIG = {\n  title: \"Neon Drift\"\n};"},"isError":false}
+window.GAME_CONFIG = {
+  title: "Neon Drift"
+};
